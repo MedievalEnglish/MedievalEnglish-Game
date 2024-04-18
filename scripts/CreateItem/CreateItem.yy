@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"CreateItem",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"CreateItem",
+  "parent":{
+    "name":"Items_definitions",
+    "path":"folders/Scripts/Items_definitions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

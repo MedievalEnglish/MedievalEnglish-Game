@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"usenote18ma",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"usenote18ma",
+  "parent":{
+    "name":"itemEffectsmaga",
+    "path":"folders/Scripts/itemEffectsmaga.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

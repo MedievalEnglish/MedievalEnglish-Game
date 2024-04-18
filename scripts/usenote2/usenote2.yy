@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"usenote2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"usenote2",
+  "parent":{
+    "name":"itemEffectsmago",
+    "path":"folders/Scripts/itemEffectsmago.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

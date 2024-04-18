@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"usenote16co",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"usenote16co",
+  "parent":{
+    "name":"itemEffectscaballero",
+    "path":"folders/Scripts/itemEffectscaballero.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

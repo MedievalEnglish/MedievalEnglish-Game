@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scrunPause",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrunPause",
+  "parent":{
+    "name":"Player",
+    "path":"folders/Scripts/Player.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

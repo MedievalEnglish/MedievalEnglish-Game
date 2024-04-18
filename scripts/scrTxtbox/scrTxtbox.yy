@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scrTxtbox",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrTxtbox",
+  "parent":{
+    "name":"div_txt",
+    "path":"folders/Scripts/div_txt.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"remove_item",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"remove_item",
+  "parent":{
+    "name":"Items",
+    "path":"folders/Scripts/Items.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

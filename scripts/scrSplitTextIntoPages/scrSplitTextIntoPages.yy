@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scrSplitTextIntoPages",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrSplitTextIntoPages",
+  "parent":{
+    "name":"div_txt",
+    "path":"folders/Scripts/div_txt.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

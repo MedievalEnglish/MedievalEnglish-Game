@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"usenote2c",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"usenote2c",
+  "parent":{
+    "name":"itemEffectscaballera",
+    "path":"folders/Scripts/itemEffectscaballera.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

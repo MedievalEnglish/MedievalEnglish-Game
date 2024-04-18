@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scrSplitText",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scrSplitText",
+  "parent":{
+    "name":"div_txt",
+    "path":"folders/Scripts/div_txt.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
